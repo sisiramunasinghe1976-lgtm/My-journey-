@@ -18,10 +18,3 @@ My ambition is to become a software engineer.
 ## My First Goal
 Build my first Android application!
 
-val age = 15
-
-if (age >= 18) {
-    println("Adult")
-} else {
-    println("Not an adult")
-}
